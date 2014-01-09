@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5BB2BF10-4507-4C93-87CC-F325019303AD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Palindrome</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>19AF4319-C4C6-487B-AB2A-DE888CDE8A4B</key>
+		<string>https://github.com/joelarcos/mobile-makers-projects.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Palindrome/Palindrome.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>19AF4319-C4C6-487B-AB2A-DE888CDE8A4B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/joelarcos/mobile-makers-projects.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>19AF4319-C4C6-487B-AB2A-DE888CDE8A4B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>19AF4319-C4C6-487B-AB2A-DE888CDE8A4B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mobile-makers-projects</string>
+		</dict>
+	</array>
+</dict>
+</plist>
